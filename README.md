@@ -40,7 +40,7 @@ cd Java
 
 ```
 
-Java solve.java
+Java 'filename'.java
 
 ```
   
