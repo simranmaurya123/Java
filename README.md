@@ -38,9 +38,9 @@ cd Java
 ```
 - Run this script
 
-  ```
+```
 
-  Java solve.java
+Java solve.java
 
-  ```
+```
   
