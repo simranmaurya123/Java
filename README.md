@@ -12,6 +12,7 @@
    - For [LINUX](https://www.oracle.com/in/java/technologies/downloads/#jdk22-linux)
    - For [macOS](https://www.oracle.com/in/java/technologies/downloads/#jdk22-mac)
    
+# GETTING STARTED
 
 ## PREQUISITES
 - Stable version of java should be installed on the system
@@ -30,3 +31,11 @@ git clone https://github.com/simranmaurya123/Java.git
 cd Java
 
 ```
+- Run this script
+
+  ```
+
+  Java solve.java
+
+  ```
+  
