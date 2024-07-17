@@ -41,7 +41,7 @@ cd Java
 
 ```
 
-Java 'filename'.java
+Java 'filename'
 
 ```
   
