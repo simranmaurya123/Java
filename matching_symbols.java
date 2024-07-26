@@ -2,10 +2,10 @@ public class matching_symbols{
     public static void main(String[]args){
 
         String str1 = "@";
-        System.out.println(str1.matches("."));
+        System.out.println(str1.matches("for all characters"+"."));
 
         String str2 = "p";
-        System.out.println(str2.matches("[abc]"));
+        System.out.println(str2.matches("one character from abc "+"[abc]"));
 
         String str3 ="Z";
         System.out.println(str3.matches("[a-zA-Z0-9]"));
@@ -25,7 +25,7 @@ public class matching_symbols{
         System.out.println(str7.matches("[abc]{3,7}"));
 
         String str8="simranmaurya@gmail.com";
-        System.out.println(str8.matches("\\w*[@gmail](.)*"));
+        System.out.println(str8.matches("to check whether the current string contains gmail or not"+"\\w*[@gmail](.)*"));
 
 
 
